@@ -1,7 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
+nav_order: 1
 subtitle: Ph.D. Student at <a href='https://www.bupt.edu.cn/'>BUPT</a>.
 
 profile:

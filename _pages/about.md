@@ -28,14 +28,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student at the School of Computer Science, **Beijing University of Posts and Telecommunications (BUPT)**, where I am privileged to be advised by **[Prof. Anlong Ming](https://teacher.bupt.edu.cn/mal/)**. My research is focused on advanced computer vision techniques, aiming to improve how machines interpret visual aesthetics and color information.
+I am a Ph.D. student at the School of Computer Science, **Beijing University of Posts and Telecommunications (BUPT)**, supervised by **[Prof. Anlong Ming](https://teacher.bupt.edu.cn/mal/)**. My research is focused on computer vision, aiming to improve how machines interpret visual aesthetics and color information.
 
 Prior to my doctoral studies, I received my Master's degree from **Ningbo University**, under the supervision of **[Prof. Qiuping Jiang](https://jiang-qiuping.github.io/)**.
 
 My research focuses on the intersection of **Computational Photography** and **Visual Understanding**:
 
 * **Image Aesthetics Assessment (IAA):** Quantifying and evaluating the aesthetic quality of digital images.
-* **Color Science & White Balance:** Studying color representation and achieving color constancy.
+* **Color Aesthetics:** Exploring the rules of color harmony and visual preferences.
+* **White Balance:** Restoring true colors under varying lighting conditions.
 * **Object Detection:** Localizing and identifying semantic objects within complex visual scenes.
 
 <br>

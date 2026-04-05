@@ -29,7 +29,7 @@ latest_posts:
 
 ## Biography
 
-I am a Ph.D. student at the School of Computer Science, **Beijing University of Posts and Telecommunications (BUPT)**, where I am privileged to be advised by **[Prof. Anlong Ming](https://teacher.bupt.edu.cn/mal/)**. My research is focused on advanced computer vision techniques, aiming to improve how machines interpret visual aesthetics and color information.
+I am a Ph.D. student at the School of Computer Science, **Beijing University of Posts and Telecommunications (BUPT)**, where I am privileged to be advised by **[Prof. Anlong Ming](https://teacher.bupt.edu.cn/mal/)**. My research is focused on advanced computer vision techniques, aiming to improve how machines interpret visual aesthetics and color information. 
 
 Prior to my doctoral studies, I received my Master's degree from **Ningbo University**, under the supervision of **[Prof. Qiuping Jiang](https://jiang-qiuping.github.io/)**.
 

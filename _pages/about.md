@@ -45,5 +45,3 @@ My research focuses on the intersection of **Computational Photography** and **V
 * **[2025.11]** 🎉 One paper on image color temperature aesthetics has been accepted by **AAAI 2026**!
 
 ---
-
-Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/publications/) automatically.

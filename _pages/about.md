@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>School of Artificial Intelligence</p>
+    <p>School of Computer Science</p>
     <p>Beijing University of Posts and Telecommunications</p>
     <p>Beijing, China</p>
 

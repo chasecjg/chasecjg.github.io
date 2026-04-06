@@ -17,6 +17,12 @@ pagination:
 ---
 
 <div class="post">
+  
+<blockquote style="border-left: 5px solid #828282; padding: 10px 20px; background-color: #f9f9f9; border-radius: 5px;">
+  <p style="margin-bottom: 5px; font-weight: bold;">My technical blogs and study notes are currently hosted on CSDN.</p>
+  <p style="margin-bottom: 0;">👉 <strong><a href="https://blog.csdn.net/qq_38683460?spm=1000.2115.3001.5343" target="_blank">Click here to visit my CSDN Homepage</a></strong></p>
+</blockquote>
+<br>
 
 {% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}

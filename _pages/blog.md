@@ -17,12 +17,6 @@ pagination:
 ---
 
 <div class="post">
-  
-<blockquote style="border-left: 5px solid #828282; padding: 10px 20px; background-color: #f9f9f9; border-radius: 5px;">
-  <p style="margin-bottom: 5px; font-weight: bold;">My technical blogs and study notes are currently hosted on CSDN.</p>
-  <p style="margin-bottom: 0;">👉 <strong><a href="https://blog.csdn.net/qq_38683460?spm=1000.2115.3001.5343" target="_blank">Click here to visit my CSDN Homepage</a></strong></p>
-</blockquote>
-<br>
 
 {% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}
@@ -193,10 +187,20 @@ pagination:
 
     {% endfor %}
 
+
+
   </ul>
 
 {% if page.pagination.enabled %}
 {% include pagination.liquid %}
 {% endif %}
+</ul>
 
+  <br>
+  <blockquote style="border-left: 5px solid #007bff; padding: 15px 20px; background-color: #f8f9fa; border-radius: 5px; text-align: center; margin-top: 20px;">
+    <p style="margin-bottom: 5px; color: #555;">Want to read more? All my technical blogs and study notes are hosted on CSDN.</p>
+    <p style="margin-bottom: 0; font-size: 1.1em;">
+      👉 <strong><a href="https://blog.csdn.net/qq_38683460" target="_blank" style="text-decoration: none;">Click here to visit my CSDN Homepage to read all articles</a></strong>
+    </p>
+  </blockquote>
 </div>

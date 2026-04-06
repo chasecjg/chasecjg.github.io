@@ -59,17 +59,6 @@ ninja.data = [{
             window.open("https://blog.csdn.net/qq_38683460/article/details/147693249", "_blank");
           
         },
-      },{id: "post-a-post-with-plotly-js",
-        
-          title: "a post with plotly.js",
-        
-        description: "this is what included plotly.js code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/plotly/";
-          
-        },
       },{id: "post-oserror-we-couldn-t-connect-to-https-huggingface-co-to-load-this-file",
         
           title: 'OSError: We couldn‘t connect to ‘https://huggingface.co‘ to load this file <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -266,6 +255,17 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://blog.csdn.net/qq_38683460/article/details/131163997", "_blank");
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
+        
+          title: "a post with plotly.js",
+        
+        description: "this is what included plotly.js code could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2005/plotly/";
           
         },
       },{id: "books-the-godfather",

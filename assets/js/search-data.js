@@ -37,7 +37,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-首篇针对图像色温美学评估的论文",
+        
+          title: '首篇针对图像色温美学评估的论文 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "色温美学评估论文解读，该论文首次提出来图像色温美学评估任务",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://blog.csdn.net/qq_38683460/article/details/154992727", "_blank");
+          
+        },
+      },{id: "post-详解迁移学习-模型参数冻结-优化器参数定义",
+        
+          title: '详解迁移学习，模型参数冻结，优化器参数定义 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "详解迁移学习，模型参数冻结，优化器参数定义",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://blog.csdn.net/qq_38683460/article/details/147693249", "_blank");
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -48,26 +70,202 @@ ninja.data = [{
             window.location.href = "/blog/2025/plotly/";
           
         },
-      },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+      },{id: "post-oserror-we-couldn-t-connect-to-https-huggingface-co-to-load-this-file",
         
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'OSError: We couldn‘t connect to ‘https://huggingface.co‘ to load this file <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
+        description: "国内无法访问huggingface网站，通过镜像替代",
         section: "Posts",
         handler: () => {
           
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
+            window.open("https://blog.csdn.net/qq_38683460/article/details/145661150", "_blank");
           
         },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
+      },{id: "post-一图秒懂色彩空间和色彩模型",
         
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: '一图秒懂色彩空间和色彩模型 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "色彩空间和色彩模型理解",
         section: "Posts",
         handler: () => {
           
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
+            window.open("https://blog.csdn.net/qq_38683460/article/details/143100109", "_blank");
+          
+        },
+      },{id: "post-什么是ltu",
+        
+          title: '什么是LTU? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "LUT简介",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://blog.csdn.net/qq_38683460/article/details/142872973", "_blank");
+          
+        },
+      },{id: "post-ddpm和ddim小记",
+        
+          title: 'ddpm和ddim小记 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "DDPM和DDIM 更深层次理解",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://blog.csdn.net/qq_38683460/article/details/141748656", "_blank");
+          
+        },
+      },{id: "post-dlid源码快速安装-百分百成功",
+        
+          title: 'dlid源码快速安装——百分百成功 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "dlib安装教程，百分百成功",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://blog.csdn.net/qq_38683460/article/details/140962003", "_blank");
+          
+        },
+      },{id: "post-一文详解denoising-diffusion-implicit-models-ddim",
+        
+          title: '一文详解Denoising Diffusion Implicit Models（DDIM） <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "一文详解Denoising Diffusion Implicit Models（DDIM）",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://blog.csdn.net/qq_38683460/article/details/140790058", "_blank");
+          
+        },
+      },{id: "post-denoising-diffusion-probabilistic-models-ddpm-简易代码分析-保姆级逐行讲解",
+        
+          title: 'Denoising Diffusion Probabilistic Models（DDPM）简易代码分析（保姆级逐行讲解） <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Denoising Diffusion Probabilistic Models（DDPM）简易代码分析（保姆级逐行讲解）",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://blog.csdn.net/qq_38683460/article/details/140779390", "_blank");
+          
+        },
+      },{id: "post-denoising-diffusion-probabilistic-models-ddpm-保姆级解析-附代码实现",
+        
+          title: 'Denoising Diffusion Probabilistic Models（DDPM）保姆级解析——附代码实现 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Diffusion Model（DDPM）保姆级解析——附代码实现",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://blog.csdn.net/qq_38683460/article/details/140738695", "_blank");
+          
+        },
+      },{id: "post-论文精读-保姆级解析-flash-diffusion",
+        
+          title: '论文精读（保姆级解析）—— Flash Diffusion <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "论文精读（保姆级解析）—— Flash Diffusion: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://blog.csdn.net/qq_38683460/article/details/140667052", "_blank");
+          
+        },
+      },{id: "post-论文精读-保姆级解析-freedom-training-free-energy-guided-conditional-diffusion-model",
+        
+          title: '论文精读（保姆级解析）—— FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "论文精读（保姆级解析）—— FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://blog.csdn.net/qq_38683460/article/details/140636632", "_blank");
+          
+        },
+      },{id: "post-论文精读-保姆级解析-guidance-with-spherical-gaussian-constraint-for-conditional-diffusion",
+        
+          title: '论文精读（保姆级解析）—— Guidance with Spherical Gaussian Constraint for Conditional Diffusion <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "论文精读（保姆级解析）—— Guidance with Spherical Gaussian Constraint for Conditional Diffusion",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://blog.csdn.net/qq_38683460/article/details/140566148", "_blank");
+          
+        },
+      },{id: "post-论文精读-保姆级解析-assessing-face-image-quality-a-large-scale-database-and-a-transformer-method",
+        
+          title: '论文精读（保姆级解析）—— Assessing Face Image Quality: A Large-Scale Database and a Transformer Method <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "论文精读（保姆级解析）—— Assessing Face Image Quality: A Large-Scale Database and a Transformer Method",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://blog.csdn.net/qq_38683460/article/details/140458344", "_blank");
+          
+        },
+      },{id: "post-论文精读-保姆级解析-difareli-diffusion-face-relighting",
+        
+          title: '论文精读（保姆级解析）——DiFaReli: Diffusion Face Relighting <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "论文精读（保姆级解析）——DiFaReli: Diffusion Face Relighting",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://blog.csdn.net/qq_38683460/article/details/140394246", "_blank");
+          
+        },
+      },{id: "post-一文彻底理解python浅拷贝和深拷贝",
+        
+          title: '一文彻底理解python浅拷贝和深拷贝 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "一文彻底详解python深拷贝和浅拷贝",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://blog.csdn.net/qq_38683460/article/details/134073515", "_blank");
+          
+        },
+      },{id: "post-lstm长短期记忆网络-gru",
+        
+          title: 'LSTM长短期记忆网络，GRU <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "LSTM和GRU介绍",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://blog.csdn.net/qq_38683460/article/details/132651813", "_blank");
+          
+        },
+      },{id: "post-rnn循环卷积神经网络",
+        
+          title: 'RNN循环卷积神经网络 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "RNN循环卷积神经网络介绍",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://blog.csdn.net/qq_38683460/article/details/132650952", "_blank");
+          
+        },
+      },{id: "post-git的基本使用",
+        
+          title: 'git的基本使用 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "git简单使用方法",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://blog.csdn.net/qq_38683460/article/details/131852810", "_blank");
+          
+        },
+      },{id: "post-pycharm调试代码报frames-are-not-available问题",
+        
+          title: 'Pycharm调试代码报Frames are not available问题 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "调试代码报Frames are not available问题",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://blog.csdn.net/qq_38683460/article/details/131163997", "_blank");
           
         },
       },{id: "books-the-godfather",

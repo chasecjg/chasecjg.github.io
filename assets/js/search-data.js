@@ -37,18 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-硬核解析-isp-图像管线中的白平衡与色彩转换闭环映射",
-        
-          title: "硬核解析：ISP 图像管线中的白平衡与色彩转换闭环映射",
-        
-        description: "深入色彩科学最底层，用严密的线性代数和微积分推导，揭示相机传感器是如何在物理光学与数字色彩之间建立完美的双射闭环的。",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/AWB-CCM/";
-          
-        },
-      },{id: "post-首篇针对图像色温美学评估的论文",
+        },{id: "post-首篇针对图像色温美学评估的论文",
         
           title: '首篇针对图像色温美学评估的论文 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         

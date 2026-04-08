@@ -268,6 +268,17 @@ ninja.data = [{
             window.location.href = "/blog/2005/plotly/";
           
         },
+      },{id: "post-a-post-with-plotly-js",
+        
+          title: "a post with plotly.js",
+        
+        description: "this is what included plotly.js code could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/0226/AWB-CCM/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",

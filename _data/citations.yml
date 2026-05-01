@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-05-01'
 papers:
   oNfjlIQAAAAJ:d1gkVwhDpl0C:
     citations: 0
@@ -10,6 +10,6 @@ papers:
     title: High-precision dichotomous image segmentation with frequency and scale awareness
     year: '2024'
   oNfjlIQAAAAJ:u5HHmVD_uO8C:
-    citations: 52
+    citations: 54
     title: Bidirectional collaborative mentoring network for marine organism detection and beyond
     year: '2023'
